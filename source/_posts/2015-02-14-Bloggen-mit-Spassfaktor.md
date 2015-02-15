@@ -121,4 +121,4 @@ Mit Hexo bin ich auf ein spezialisiertes System für Entwickler-Blogs gestoßen,
 
 ![](ide.png)
 
-Wenn man das zu Grunde liegende Konzept weiter verfolgt, drängt sich natürlich die Anbindung an einen Continous-Integration-Server auf, der bei Änderungen im Git-Repository die Generierung anstößt und anschließend die Auslieferung auf den Webspace vornimmt. Ein interessanter Gedanke, dem ich demnächst eventuell etwas Zeit widme.
+Wenn man das zu Grunde liegende Konzept weiter verfolgt, drängt sich natürlich die Anbindung an einen Continuous-Integration-Server auf, der bei Änderungen im Git-Repository die Generierung anstößt und anschließend die Auslieferung auf den Webspace vornimmt. Ein interessanter Gedanke, dem ich demnächst eventuell etwas Zeit widme.
